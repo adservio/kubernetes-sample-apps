@@ -25,7 +25,7 @@ The [kustomization manifest](kustomize/kustomization.yaml) provided in this repo
 First, you need to clone this repository:
 
 ```shell
-git clone https://github.com/digitalocean/kubernetes-sample-apps.git
+git clone https://github.com/adservio/kubernetes-sample-apps.git
 ```
 
 Then, change directory to your local copy:
