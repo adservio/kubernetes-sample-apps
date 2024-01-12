@@ -39,7 +39,7 @@ A sample [Dockerfile](./Dockerfile) is provided in this repository as well, to h
 First, you need to clone this repository (if not already):
 
 ```shell
-git clone https://github.com/digitalocean/kubernetes-sample-apps.git
+git clone https://github.com/adservio/kubernetes-sample-apps.git
 ```
 
 Then, change directory to your local copy:
